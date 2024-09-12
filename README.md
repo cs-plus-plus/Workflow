@@ -1,6 +1,7 @@
 # GitHub Workflow for Students
 
 This guide will walk you through the steps to create a GitHub account, accept an assignment on GitHub Classroom, clone the repository using GitHub Desktop, and add the project to Eclipse.
+To learn more about these tools, head to the [Getting Started Repo](https://github.com/cs-plus-plus/Getting-Started/)
 
 ## 1. Creating a GitHub Account
 
